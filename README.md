@@ -4,10 +4,10 @@
 
 <!-- start badges -->
 
-<img src="https://github.com/HEADS-UPorto/${REPOSITORY_SLUG}/workflows/Building%20Binder/badge.svg" alt="Building Binder"/>
-<a href="https://mybinder.org/v2/gh/HEADS-UPorto/Rstudio_Env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FHEADS-UPorto%252F${REPOSITORY_SLUG}%26targetPath%3Dheads%26urlpath%3Drstudio%252F%26branch%3Dmaster"><img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"/></a>
+<img src="https://github.com/HEADS-UPorto/module-5-jomigalves/workflows/Building%20Binder/badge.svg" alt="Building Binder"/>
+<a href="https://mybinder.org/v2/gh/HEADS-UPorto/Rstudio_Env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FHEADS-UPorto%252Fmodule-5-jomigalves%26targetPath%3Dheads%26urlpath%3Drstudio%252F%26branch%3Dmaster"><img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"/></a>
 
-<img src="https://github.com/HEADS-UPorto/${REPOSITORY_SLUG}/workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=master&event=push" alt="GitHub Classroom Workflow"/>
+<img src="https://github.com/HEADS-UPorto/module-5-jomigalves/workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=master&event=push" alt="GitHub Classroom Workflow"/>
 
 <!-- end badges -->
 
